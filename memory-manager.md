@@ -9,7 +9,7 @@
 ## 安装
 
 ```bash
-/skill install memory-manager.skill
+npx skills add https://github.com/Winstonxu123/SkillsPack
 ```
 
 ---
